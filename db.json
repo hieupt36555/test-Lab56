@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "name": "iphone 3g",
+      "isShow": true,
+      "category": "DELL",
+      "quantity": "12",
+      "id": 5
+    },
+    {
+      "name": "XPS 2020",
+      "isShow": false,
+      "category": "HP",
+      "quantity": "12",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "email": "test@example.us",
+      "password": "$2a$10$hkhK1zWcR.1bMkLushXT0eiAFxc2aFIs7USKLTicP.CBhzXP/WHTi",
+      "username": "hehe",
+      "id": 1
+    },
+    {
+      "email": "test@example.uss",
+      "password": "$2a$10$LWGY5gAfgmlEAfdTA3FL1eEKkJTGs348/5uzBKY2JArBfbN5U2LU2",
+      "username": "hehe",
+      "id": 2
+    },
+    {
+      "email": "hieuptph36555@fpt.edu.vn",
+      "password": "$2a$10$YoiyOcHLnmHxwOmAD8A9k.MdkisrT2TIQLIIYw47jriS2.zwf0aAq",
+      "username": "hehe",
+      "id": 3
+    },
+    {
+      "email": "hieupt12@gmail.com",
+      "password": "$2a$10$/T8TgfVM5fd5eVkn0FkeXO8/8jvTXp9ljOQaKIHrFBlyAgoWReGxK",
+      "username": "admin",
+      "id": 4
+    },
+    {
+      "email": "hieupt112@gmail.com",
+      "password": "$2a$10$QGnIL3Zh6uD3mF0SdTzQt.J2EWsz/CI7etV.8dtHTCW6DhpzQ6CVC",
+      "username": "admin",
+      "id": 5
+    },
+    {
+      "email": "hieupt1121@gmail.com",
+      "password": "$2a$10$U2r7dnp7OtQAcCaKB3F38uU8Dd1GHRvGrWJBbwnxII41sSe8MrrlO",
+      "username": "admin",
+      "id": 6
+    },
+    {
+      "email": "hieupt11211@gmail.com",
+      "password": "$2a$10$rvkvftelWeVHEGqfBOa8B.A6FJoiSiGQ7iZpVEf2.S1taqH0r1Rfa",
+      "username": "admin",
+      "id": 7
+    },
+    {
+      "email": "test111@example.us",
+      "password": "$2a$10$GAGJgxylV5Pglr2/z2k3ues7xqPgRMHzPIWcqlyJe7QhI9ahSRQn2",
+      "username": "heu",
+      "id": 8
+    }
+  ]
+}
